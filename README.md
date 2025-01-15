@@ -1,6 +1,6 @@
 # About Me
 
-Hello! I am a professional web developer with a diverse skill set in backend development and API design. I have extensive experience in various frameworks and technologies, including **Laravel**, **Express.js**, **NestJS**, **FastAPI**, and more.
+Hello! I am a professional web developer with a diverse skill set in backend development and API design. I have extensive experience in various frameworks and technologies, including **Laravel**, **Express.js**, **NestJS**, **FastAPI**, and more. I also have experience working with **IoT** devices, including controlling lighting, thermostats, curtains, relays, and live streaming.
 
 ---
 
@@ -15,6 +15,13 @@ Hello! I am a professional web developer with a diverse skill set in backend dev
 
 ### **Frontend Development**
 - **JavaScript / TypeScript** (80%) - Strong proficiency in front-end and back-end development using JavaScript and TypeScript for full-stack applications.
+
+### **IoT Development**
+- **Smart Lighting Control with ESP32** (85%) - Implementing IoT solutions to control smart lighting systems remotely.
+- **Thermostat and Curtain Control Systems** (80%) - Building IoT-based control systems for thermostats and motorized curtains.
+- **Relay Control** (80%) - Developing IoT projects to control relays for various applications.
+- **Bluetooth and Wireless Communication** (75%) - Using Bluetooth and wireless technologies for communication between devices.
+- **Live Streaming Integration** (70%) - Integrating live streaming systems for real-time media transmission and monitoring.
 
 ---
 
@@ -36,14 +43,23 @@ Hello! I am a professional web developer with a diverse skill set in backend dev
 - **Description**: A full-stack web app using Laravel for the backend and Vue.js for the frontend, featuring user management and dynamic content systems.
 - **Technologies**: Laravel, Vue.js, MySQL, Laravel Echo.
 
+### **IoT Smart Thermostat & Curtain Control System**
+- **Description**: A system to control thermostats and motorized curtains via an IoT platform, allowing remote and automated operation.
+- **Technologies**: ESP32, Wireless Communication, Mobile App Integration.
+
+### **Relay Control via IoT Network**
+- **Description**: An IoT-based relay control system for turning devices on/off using wireless signals.
+- **Technologies**: ESP32, Bluetooth, Wireless Communication.
+
+### **Live Streaming Integration**
+- **Description**: Integration of live streaming capabilities for monitoring or broadcasting events in real-time.
+- **Technologies**: WebRTC, Streaming Servers, ESP32.
+
 ---
 
 ## Contact
 
-- **Email**: [your.email@example.com](mailto:your.email@example.com)
-- **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/your-profile)
-- **GitHub**: [GitHub](https://github.com/your-profile)
-- **Twitter**: [Twitter](https://twitter.com/your-profile)
+- **Email**: [hadi.mansoori.rad@gmail.com](mailto:hadi.mansoori.rad@gmail.com)
 
 ---
 
@@ -57,3 +73,15 @@ Hello! I am a professional web developer with a diverse skill set in backend dev
 ## License
 
 This repository is licensed under the MIT License.
+
+---
+
+## GitHub Stats
+
+### 📊 GitHub Stats:
+![Your commit stats](https://github-readme-stats.vercel.app/api?username=your-username&count_private=true&show_icons=true&hide_title=true&hide=prs&theme=radical)
+
+---
+
+### 📅 Commit Activity This Month:
+![GitHub Commits](https://github-readme-stats.vercel.app/api?username=your-username&count_private=true&show_icons=true&hide_title=true&hide=prs&theme=radical)
