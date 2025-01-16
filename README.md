@@ -49,7 +49,9 @@ Hello! I am a professional web developer with a diverse skill set in backend dev
 - **ERC-721 NFTs** (75%) - Interacting with ERC-721 contracts to read NFT metadata, transactions, and ownership details.
 - **Transaction Monitoring** (80%) - Listening to and monitoring blockchain transactions on BSC, including transfers and contract interactions, to detect events or changes in real-time.
 - **Smart Contract Listening** (75%) - Setting up listeners for events such as **Transfer** events in ERC-721 contracts to detect when NFTs are transferred.
-  - **Prioritizing Blockchain & Solidity**: Currently focusing on enhancing my skills in **Blockchain** and **Solidity**, with an emphasis on developing decentralized applications and smart contracts.
+
+### Prioritizing Blockchain & Solidity  
+**In Future Plans**: I plan to focus on enhancing my skills in **Blockchain** and **Solidity**, with an emphasis on developing **decentralized applications (DApps)** and **smart contracts**.
 
 ### **Language Learning** 🗣️
 - **English** (B1) - Currently improving my English skills to reach the B2 level, focusing on expanding my vocabulary and mastering advanced grammar and writing techniques.
