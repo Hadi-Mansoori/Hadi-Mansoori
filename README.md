@@ -156,4 +156,5 @@ This repository is licensed under the MIT License.
 ---
 
 ### 📅 Commit Activity This Month:
-![GitHub Commits](https://github-readme-stats.vercel.app/api?username=hadi-mansoori&count_private=true&show_icons=true&hide_title=true&hide=prs&theme=radical)
+![GitHub Commits](https://github-readme-stats.vercel.app/api?username=hadi-mansoori&count_private=true&show_icons=true&hide_title=true&hide=prs&theme=radical&token=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)
+
