@@ -148,9 +148,7 @@ This repository is licensed under the MIT License.
 
 ---
 
-
----
-
 ### 📅 Commit Activities:
-![Private Commits](https://shields.io/badge/private--commits-visible-green)
+![GitHub Commits](https://github-readme-stats.vercel.app/api?username=hadi-mansoori&count_private=true&show_icons=true&hide_title=true&hide=prs&theme=radical)
+
 
