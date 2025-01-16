@@ -148,13 +148,9 @@ This repository is licensed under the MIT License.
 
 ---
 
-## GitHub Stats 📊
-
-### 📊 GitHub Stats:
-![Your commit stats](https://github-readme-stats.vercel.app/api?username=hadi-mansoori&count_private=true&show_icons=true&hide_title=true&hide=prs&theme=radical)
 
 ---
 
-### 📅 Commit Activity This Month:
-![GitHub Commits](https://github-readme-stats.vercel.app/api?username=hadi-mansoori&count_private=true&show_icons=true&hide_title=true&hide=prs&theme=radical&token=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)
+### 📅 Commit Activities:
+![Private Commits](https://shields.io/badge/private--commits-visible-green)
 
