@@ -15,6 +15,16 @@ Hello! I am a professional web developer with a diverse skill set in backend dev
 - **FastAPI** (75%) - Building high-performance APIs with FastAPI in Python, known for its fast response times and automatic documentation generation.
   - **Currently Strengthening**: Improving my expertise in FastAPI, focusing on performance optimization, and deepening my knowledge in asynchronous programming.
 
+### **DevOps** ⚙️
+- **Docker & Docker Swarm**: Containerizing applications for scalable and efficient deployments.
+- **Nginx**: Configuring and optimizing web servers for high performance.
+- **DNS Server (BIND 9)**: Setting up and managing domain name servers.
+- **SSH Proxy**: Securing and optimizing server connections.
+- **CI/CD with Jenkins**: Automating deployment pipelines to ensure smooth updates.
+- **Bash Scripting**: Writing scripts to automate server management tasks.
+- **Kubernetes**: Basic experience in setting up operational clusters.
+- **Grafana**: Familiarity with monitoring and visualization tools.
+
 ### **Messaging Systems & Brokers** 📡
 - **RabbitMQ** (80%) - Experience in working with RabbitMQ for message queuing and building scalable and reliable distributed systems.
 - **Mosquitto** (75%) - Working with Mosquitto for MQTT-based communication, specifically for IoT applications and message brokering.
