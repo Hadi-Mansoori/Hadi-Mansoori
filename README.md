@@ -1,6 +1,10 @@
 # About Me
 
-Hello! My name is Sayed Hadi Mansoori Rad, I am a professional web developer with a diverse skill set in backend development and API design. I have extensive experience in various frameworks and technologies, including **Laravel**, **Express.js**, **NestJS**, **FastAPI**, **RabbitMQ**, **Mosquitto**, **MongoDB**, and more. I also have experience working with **IoT** devices, including controlling lighting 💡, thermostats 🌡️, curtains 🏠, relays 🔌, and live streaming 🎥.
+💡 **Hello!** I'm **Sayed Hadi Mansoori Rad**, a passionate and experienced **web developer** 🔥. I have contributed to **numerous projects** across various domains, leveraging **Laravel**, **Express.js**, **FastAPI**, and more! 🚀
+
+🔧 In **DevOps**, I’ve built powerful microservices, automated workflows, and streamlined systems. 💻 I'm also well-versed in **IoT** 🏠, controlling everything from **lighting** to **thermostats**. 🌡️
+
+🌐 My expertise extends into **Blockchain**, where I’ve crafted efficient **ERC-721** contract monitoring solutions using **TypeScript**. 🛠️
 
 ---
 
